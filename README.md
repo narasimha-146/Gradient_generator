@@ -93,18 +93,7 @@ Use these files to complete the implementation:
 
 </details>
 
-### Important Note
 
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The HTML container element for the linear gradient values are applied should have `data-testid` as **gradientGenerator**
-- When a gradient direction button is active then the button should have the CSS property opacity with the value **1**
-- When a gradient direction button is inactive then the button should have the CSS property opacity with the value **0.5**
 
 </details>
 
